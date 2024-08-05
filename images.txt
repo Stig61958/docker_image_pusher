@@ -1,2 +1,2 @@
-phpipam/phpipam-www
-phpipam/phpipam-cron
+phpipam/phpipam-www:latest
+phpipam/phpipam-cron:latest
