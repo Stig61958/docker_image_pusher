@@ -1,2 +1,5 @@
 phpipam/phpipam-www:latest
 phpipam/phpipam-cron:latest
+star7th/showdoc:v3.2.6
+portainer/portainer-ce:2.20.3-alpine
+registry:2.8.3
